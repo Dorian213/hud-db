@@ -1,0 +1,22 @@
+{
+  "name": "FUNKeHUD V2024",
+  "": "funke for making funke hud.",
+  "author": "Dorian",
+  "contributors": [
+    "Raysfire",
+    "FUNKe"
+  ],
+  "releaseDate": "2023-8-1",
+  "parent": "https://comfig.app/huds/page/rayshud/",
+  "resources": [
+    "https://imgur.com/khGJMxa"
+  ],
+  "repo": "https://github.com/Dorian213/funkehud-v2024",
+  "hash": "3c459b4b15774e9269b53b74117b985f2b3578a9",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "https://steamcommunity.com/id/insallahhehehesiiuu/",
+    "album": "https://imgur.com/a/OM1Yc93"
+  },
+  "traits": {}
+}
